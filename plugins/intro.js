@@ -37,10 +37,10 @@ let krtu = `0ཻུ۪۪ꦽꦼ̷⸙‹•═════════════�
 `
 let wibu = `https://api-reysekha.herokuapp.com/api/random/cosplay?apikey=apirey` 
 let thumb = await(await fetch(wibu)).buffer()
-conn.sendButtonDoc(m.chat, krtu, 'Script : https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw\nSubs Tod!!','MENU','.menu', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw",
+conn.sendButtonDoc(m.chat, krtu, 'Script : 2\nSubs Tod!!','MENU','.menu', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
+    mediaUrl: "1",
     mediaType: "VIDEO",
-    description: "https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw", 
+    description: "2", 
     title: 'Al? Offc',
     body: wm,
     thumbnail: thumb,
